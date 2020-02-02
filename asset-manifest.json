@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.060b6258.chunk.css",
+    "main.js": "/my-app/static/js/main.9977de9d.chunk.js",
+    "main.js.map": "/my-app/static/js/main.9977de9d.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.d2ff305b.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.d2ff305b.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/my-app/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.908ef5fb.chunk.js": "/my-app/static/js/2.908ef5fb.chunk.js",
+    "static/js/2.908ef5fb.chunk.js.map": "/my-app/static/js/2.908ef5fb.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.5fe3a7f6cc9ca6d552c5840c8522ecfa.js": "/my-app/precache-manifest.5fe3a7f6cc9ca6d552c5840c8522ecfa.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/my-app/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.060b6258.chunk.css.map": "/my-app/static/css/main.060b6258.chunk.css.map",
+    "static/js/2.908ef5fb.chunk.js.LICENSE": "/my-app/static/js/2.908ef5fb.chunk.js.LICENSE",
+    "static/media/App.css": "/my-app/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2ff305b.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.908ef5fb.chunk.js",
+    "static/css/main.060b6258.chunk.css",
+    "static/js/main.9977de9d.chunk.js"
+  ]
+}
